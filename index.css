@@ -54,14 +54,11 @@ header {
     margin-left: auto;
     gap: 50px;
 }
-
 .about--nav {
     display: block;
     position: relative;
     transition: 0.3s;
 }
-
-
 .about--nav ul {
     padding: 0 20px;
     margin: 0;
